@@ -1,80 +1,59 @@
-# Spectral Methods + Filtering:
+# Spectral Methods:
 
-REQUIRED:
+## What is a power spectrum?
 
 https://www.youtube.com/watch?v=Gka11q5VfFI
 
+## But what is the Fourier Transform? A visual introduction.
+
 https://www.youtube.com/watch?v=spUNpyF58BY
+
+## Spectral Analysis in Python (Introduction)
 
 https://www.youtube.com/watch?v=WMOrCBxxgvA
 
+## Denoising Data with FFT [Python]
+
 https://www.youtube.com/watch?v=s2K1JfNR7Sc
 
-OPTIONAL:
 
-https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4
+# Extreme Value Theory
 
-https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC
-
-https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
-
-https://www.youtube.com/watch?v=jnxqHcObNK4
-
-
-# Extreme Value Theory + Anomalies + Signatures:
-
-ALL REQUIRED:
-
-Extreme Value Theory:
+## Extreme Value Theory Pt I
 
 https://youtu.be/YtwYtUDMHW0?feature=shared
 
+## Extreme Value Theory Pt II (Order Statistics and More)
+
 https://youtu.be/uAwkOY9WMh8?feature=shared
+
+## Extreme Value Theory Pt III (First Extreme Value Theorem)
 
 https://youtu.be/dJjRASxh6X4?feature=shared
 
+## Extreme Value Theory Pt IV (Second Extreme Value Theorem)
+
 https://youtu.be/W-3rIPGVbEo?feature=shared
 
-Anomalies:
+# Anomalies
+
+## Anomaly Detection : Time Series Talk
 
 https://www.youtube.com/watch?v=XPwCo4cqqt0
 
+## Anomaly Detection For Time Series Data in Python
+
 https://www.youtube.com/watch?v=T5wB7pk3CUc
 
-Dynamic Time Warping:
+# Dynamic Time Warping:
+
+## How DTW (Dynamic Time Warping) algorithm works
 
 https://www.youtube.com/watch?v=_K1OsqCicBY
 
-https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL
+#  Path Signatures:
 
-Signatures:
-
-https://www.youtube.com/watch?v=pkZhtscaX1M
-
-# OPTIONAL:
-
-# Rare Event Simulation:
-
-https://www.youtube.com/playlist?list=PLKsJFg6SO0Ujr6tZHSImQ50vuNPoZ3NOl
-
-https://www.youtube.com/playlist?list=PLKsJFg6SO0UgQD2erzgNKrJEnsnpKcBxX
-
-# Anomalies:
-
-https://www.youtube.com/watch?v=qy41dXGbAxY
-
-# Signatures:
-
-https://www.youtube.com/watch?v=GtJMLJqTUFc
+## Terry Lyons, Rough path theory as a mathematical framework in the analysis of streamed data
 
 https://www.youtube.com/watch?v=ArSWNKAtVFY
 
-https://icerm.brown.edu/video_archive/2586
-
-https://www.youtube.com/playlist?list=PLUbgZHsSoMEXELP8YJ7Jf863PNFaChact
-
-https://www.youtube.com/watch?v=hzJWNi-fr5w
-
-# Rough Paths:
-
-https://youtube.com/playlist?list=PLrLctLPAdPNvHGRGAfU2C8HWj2DaZwIf5&feature=shared
